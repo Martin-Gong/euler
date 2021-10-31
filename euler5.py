@@ -1,3 +1,6 @@
+# 5
+
+# [Finished in 138ms]
 def lcm(a, b, next):
 	num = a
 	while not num % b == 0:

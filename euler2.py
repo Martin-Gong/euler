@@ -1,3 +1,6 @@
+# 2 
+
+# [Finished in 149ms]
 num0 = 1
 num1 = 2
 total = 0
