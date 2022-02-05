@@ -1,6 +1,8 @@
 # euler
 Some solutions to problems on [Project Euler](https://projecteuler.net/)
 
+![Profile Image](https://projecteuler.net/profile/nitrojector.png)
+
 | Problem | File                      | Input                     |
 | ------- | ------------------------- | ------------------------- |
 | 1       | [p1.py](/p1.py)   |                           |
