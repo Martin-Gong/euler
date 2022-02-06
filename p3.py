@@ -1,6 +1,5 @@
 # 3
 
-# [Finished in 134ms]
 const = 600851475143
 
 def printPrimeFactors():

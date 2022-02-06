@@ -23,4 +23,4 @@ Some solutions to problems on [Project Euler](https://projecteuler.net/)
 | 16      | [p16.py](/p16.py) |                           |
 | 17      | [p17.py](/p17.py) |                           |
 | 18      | [p18.py](/p18.py) | [p18.in](/p18.in) |
-
+| 67 | [p67.py](/p67.py) | [p67.in](/p67.in) |

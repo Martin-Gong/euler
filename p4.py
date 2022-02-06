@@ -1,6 +1,5 @@
 # 4
 
-# [Finished in 445ms]
 def isPalin(n):
 	return str(n)[::-1] == str(n)
 

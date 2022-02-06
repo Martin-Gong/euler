@@ -1,7 +1,5 @@
 # 10
 
-# Using Sieve
-# [Finished in 1.0s]
 p = [1] * 2000000
 p[0] = 0
 p[1] = 0

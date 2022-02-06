@@ -1,8 +1,5 @@
 # 14
 
-
-# Using dictionary
-# [Finished in 2.7s]
 d = {0: 0, 1: 1}
 
 def itemInCollatz (num):

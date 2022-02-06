@@ -1,11 +1,10 @@
 # 5
 
-# [Finished in 138ms]
 def lcm(a, b, next):
 	num = a
 	while not num % b == 0:
 		num += a
-	if next == 0: 
+	if next == 0:
 		return num
 	return lcm(num, next, next - 1)
 

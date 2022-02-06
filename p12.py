@@ -1,6 +1,5 @@
 # 12
 
-# [Finished in 4.3s]
 def divsNum (num):
 	counter = 0
 	if (num**(1/2) == int(num**(1/2))):

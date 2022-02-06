@@ -1,6 +1,5 @@
 # 7
 
-# [Finished in 4.8s]
 primes = [2]
 
 currentNum = 3
