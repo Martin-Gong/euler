@@ -1,7 +1,7 @@
 # euler
 Some solutions to problems on [Project Euler](https://python/projecteuler.net/)
 
-![Profile Image](https://python/projecteuler.net/python/profile/nitrojector.png)
+![Profile Image](https://projecteuler.net/python/profile/nitrojector.png)
 
 | Problem | File                       | Input                      |
 | ------- | -------------------------  | -------------------------  |
